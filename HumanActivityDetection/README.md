@@ -1,3 +1,5 @@
+This project is implemented in Matlab
+The algorithms are from Classification toolbox for Matlab.
 The X_train.txt y_train.txt X_test_L.txt y_test_L.txt have to be placed in the same folder as the programs.
 
 The bayes_baseline.m file executes Bayes linear and quadratic classification on the training data as well 
